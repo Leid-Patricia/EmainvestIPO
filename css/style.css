@@ -1,0 +1,68 @@
+.cards {
+  box-shadow: 2px 2px 5px #000000;
+}
+
+.cards .empresa {
+  margin-top: -10px;
+  text-align: center;
+  background-color: rgb(90, 90, 90);
+  height: 35px;
+}
+
+.cards .empresa span {
+  margin-top: 17px;
+  font-size: small;
+  color: white;
+}
+.cards-body {
+  padding-left: 10px;
+  margin-top: -30px;
+}
+
+.cards-body .cards-title {
+  margin-top: 40px;
+  font-size: 14px;
+  color: black;
+  font-weight: bold;
+}
+
+.cards-body .card-text {
+  font-size: 15px;
+}
+
+.cards-body .cards-progress {
+  align-content: center;
+  margin-top: -20px;
+  background-color: rgba(108, 192, 82, 0.878);
+  width: 95%;
+  height: 4px;
+  border-radius: 25px;
+}
+
+.cards-body .cards-cardtitle {
+  margin-top: 5px;
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+}
+
+.cards-body .cards-status {
+  font-size: 12px;
+}
+
+.cards-body .row {
+  margin-top: 15px;
+}
+
+.cards-body .line {
+  position: absolute;
+  height: 55px;
+  width: 1px;
+  background-color: silver;
+  margin-left: 100px;
+}
+
+.cards .cards-footer {
+  margin-top: -15px;
+  height: 2px;
+}
